@@ -7,25 +7,25 @@ Click here to view visualizations: [NYC Citi Bike Analysis](https://public.table
 ## Results
 In order to perform this analysis, seven visualizations were created to review the data. The results of each visualization is listed below. 
 
-#### Viz 1: Trip and User Overview
+### Viz 1: Trip and User Overview
 In this dashboard, we see that the majority Citi Bike users are subscribers rather than customers. We also see that the majority of these users are also male. The number of trips (also referred to as rides) recorded in the data set we are using is over 2.3 million.
 
-#### Viz 2: Top Starting Locations
+### Viz 2: Top Starting Locations
 This visualization shows that the most rides occur in Midtown and Lower Manhattan.
 
-#### Viz 3: Checkout Times for Users
+### Viz 3: Checkout Times for Users
 This line graph demonstrates that the majority of bike rides last between three to ten minutes. 
 
-#### Viz 4: Checkout Times by Gender
+### Viz 4: Checkout Times by Gender
 This line graph shows that the trends from Viz 3 remains approximately the same across genders. The only difference between each gender is the number of riders per time.   
 
-#### Viz 5: Trips by Weekday per Hour
+### Viz 5: Trips by Weekday per Hour
 This heat map shoes that the most popular times of day for rides to occur is Monday-Friday, between 5pm and 7pm. The only day if the wee where this pattern does not hold as firmly is Wednesdays. The next most popular time of day is Monday-Friday 7am to 9am.
 
-#### Viz 6: Trips by Gender (Weekday per Hour)
+### Viz 6: Trips by Gender (Weekday per Hour)
 This heat map is Viz 5 broken up by gender, and demonstrates a similar trend seen in Viz 4. The ride time popularity pattern remains the very similar across both genders. One interesting result of note: the trips where riders gender was marked "UNKNOWN" tend to occur most on the weekends, Saturday in particular. It might be worth exploring why to improve the data.  
 
-#### Viz 7: User Trips by Gender by Weekday
+### Viz 7: User Trips by Gender by Weekday
 This visualization shows that across all genders, users who are customers tended to take trips on the weekends, Saturday in particular. For users who were subscribers, the most and least popular days for trips were the same across both male and female users. Subscribers took most of their trips on Thursdays and least often on Sundays. 
 
 ## Summary
