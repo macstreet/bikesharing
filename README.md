@@ -2,7 +2,7 @@
 ## Overview of the Analysis
 This analysis of data from Citi Bike usage in New York City is being performed for potential investors of a bike sharing business proposal. This analysis was performed via visualizations in Tableau.
 
-Click here to view visualizations:[INSERT LINK TO DASHBOARD HERE]
+Click here to view visualizations:[NYC Citi Bike Analysis](https://public.tableau.com/views/NYCCitiBikeAnalysis_16759142621360/NYCCitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 In order to perform this analysis, seven visualizations were created to review the data. The results of each visualization is listed below. 
